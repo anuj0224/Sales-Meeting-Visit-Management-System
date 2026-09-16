@@ -4,6 +4,11 @@ Production-structured, full-stack **Sales Meeting & Visit Management System** bu
 
 ---
 
+**Frontend** - https://sales-meeting-frontend.vercel.app/
+
+**Backend** - https://sales-meeting-visit-management-system.onrender.com/api/ 
+
+---
 ## Architecture Overview
 
 Built using the **MERN Stack**:
