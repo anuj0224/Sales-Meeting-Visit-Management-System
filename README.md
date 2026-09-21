@@ -15,7 +15,7 @@ Production-structured, full-stack **Sales Meeting & Visit Management System** bu
 Built using the **MERN Stack**:
 
 - **Frontend**: React.js (Vite, React Router DOM, Custom Glassmorphism CSS Design System, Lucide Icons)
-- **Backend**: Node.js + Express.js (Modular Controller-Service-Route architecture, JWT Auth, Custom Error Handler)
+- **Backend**: Node.js + Express.js (Modular Controller-Route architecture, JWT Auth, Custom Error Handler)
 - **Database**: MongoDB (Mongoose ODM, Schema validation, Compound indexes, Embedded Visit Sessions Array, Audit Trail sub-documents)
 - **Testing**: Node.js Native Test Runner (`node --test`, zero third-party test framework overhead)
 
